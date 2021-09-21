@@ -1,4 +1,4 @@
-# Creadict-Card
+# Credit-Card
 <p>Các ngân hàng thương mại nhận được rất nhiều đơn đăng ký làm thẻ tín dụng. Nhiều người trong số họ bị từ chối vì nhiều lý do, chẳng hạn như số dư khoản vay cao, mức thu nhập thấp hoặc quá nhiều yêu cầu trên báo cáo tín dụng của một cá nhân chẳng hạn. Việc phân tích các ứng dụng này theo cách thủ công là rất đơn giản, dễ xảy ra lỗi và tốn thời gian (và thời gian là tiền bạc). May mắn thay, nhiệm vụ này có thể được tự động hóa với sức mạnh của máy học và hầu hết mọi ngân hàng thương mại đều làm như vậy hiện nay. Trong sổ tay này, chúng tôi sẽ xây dựng một công cụ dự đoán phê duyệt thẻ tín dụng tự động bằng cách sử dụng các kỹ thuật máy học, giống như các ngân hàng thực thường làm.<pp>
 <p> <img src = "https://assets.datacamp.com/production/project_558/img/credit_card.jpg" alt = "Thẻ tín dụng đang cầm trên tay"> </p>
 <p> Chúng tôi sẽ sử dụng <a href="http://archive.ics.uci.edu/ml/datasets/credit+approval"> tập dữ liệu Phê duyệt thẻ tín dụng </a> từ Kho lưu trữ Máy học UCI. Cấu trúc của sổ ghi chép này như sau: </p>
