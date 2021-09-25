@@ -9,4 +9,4 @@
 <li> Sau khi dữ liệu của chúng tôi ở trạng thái tốt, chúng tôi sẽ thực hiện một số phân tích dữ liệu khám phá để xây dựng trực giác của chúng tôi. </li>
 <li> Cuối cùng, chúng tôi sẽ xây dựng một mô hình máy học có thể dự đoán liệu đơn đăng ký thẻ tín dụng của một cá nhân có được chấp nhận hay không. </li>
 </ul>
-<p> Đầu tiên, tải và xem tập dữ liệu. Chúng tôi nhận thấy rằng vì dữ liệu này là bí mật nên người đóng góp tập dữ liệu đã ẩn danh tên các đối tượng </p> 
+
